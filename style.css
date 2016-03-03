@@ -8,6 +8,16 @@ canvas
 	background-color: white;
 }
 
+a:hover
+{
+    	text-decoration: none;
+	color: #FFFFFF;
+}
+
+a {
+	text-decoration: none;
+	color: #000000;
+}
 .undo
 {
 	background-color: white;
